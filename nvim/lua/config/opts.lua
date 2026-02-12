@@ -1,0 +1,13 @@
+vim.o.nu = true
+vim.o.rnu = true
+vim.o.tabstop = 4
+vim.o.shiftwidth = 4
+vim.o.softtabstop = 4
+vim.o.scrolloff = 20
+vim.o.sidescrolloff = 8
+vim.o.wrap = false
+vim.o.cursorline = true
+vim.o.ignorecase = true
+vim.o.smartcase = true
+vim.o.hlsearch = false
+vim.o.incsearch = true

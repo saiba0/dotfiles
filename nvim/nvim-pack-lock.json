@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "nordic.nvim": {
+      "rev": "4ce6bad95fde832f9bd10b991de846047a144628",
+      "src": "https://github.com/AlexvZyl/nordic.nvim"
+    },
+    "nvim-treesitter": {
+      "rev": "45a07f869b0cffba342276f2c77ba7c116d35db8",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter"
+    }
+  }
+}
